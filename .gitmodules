@@ -1,0 +1,18 @@
+[submodule "pic64gx-soc"]
+	path = pic64gx-soc
+	url = https://github.com/pic64gx/pic64gx-zephyr-examples.git
+[submodule "zephyr"]
+	path = zephyr
+	url = https://github.com/pic64gx/pic64gx-zephyr.git
+[submodule "modules/lib/rpmsg-lite"]
+	path = modules/lib/rpmsg-lite
+	url = https://github.com/pic64gx/pic64gx-rpmsg-lite
+[submodule "modules/hal/microchip"]
+	path = modules/hal/microchip
+	url = https://github.com/zephyrproject-rtos/hal_microchip
+[submodule "modules/hal/libmetal"]
+	path = modules/hal/libmetal
+	url = https://github.com/zephyrproject-rtos/libmetal
+[submodule "modules/lib/open-amp"]
+	path = modules/lib/open-amp
+	url = https://github.com/zephyrproject-rtos/open-amp
